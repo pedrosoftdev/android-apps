@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Migalha Tracker</string>
+    <string name="settings">Configurações</string>
+    
+    <string name="cancel">Cancelar</string>
+    <string name="save">Salvar</string>
+    <string name="yes">Sim</string>
+    <string name="no">Não</string>
+    <string name="you">Você</string>
+    
+    <string name="gps_activate">GPS ativado</string>
+    <string name="gps_deactivate">GPS desativado</string>
+    <string name="gps_not_enabled">GPS desligado. Deseja habilitá-lo?</string>
+    <string name="gps_settings">Configurando GPS</string>
+    <string name="gps">GPS</string>
+    <string name="gps_config_error">Erro ao configurar GPS</string>
+    <string name="gps_exit">GPS necessário para o funcionamento</string>
+    
+    <string name="update">Atualizar</string>
+    
+    <string name="start_tracking">Iniciar Navegação</string>
+    <string name="tracking_started">Navegação Iniciada</string>
+    
+    <string name="finish_tracking">Finalizar Navegação</string>
+    <string name="finish_question">Deseja realmente finalizar a navegação?</string>
+    <string name="tracking_finished">Navegação Finalizada</string>
+
+    <string name="save_tracking">Deseja Salvar o Trajeto?</string>
+    <string name="tracking_saved">Trajeto Salvo</string>
+    
+    <string name="view_saved_tracking">Exibir Trajetos Salvos</string>
+    <string name="select_saved_tracking">Selecione um Trajeto Salvo</string>
+    <string name="saved_tracking_selected">Trajeto Selecionado</string>
+    
+    <string name="clear_tracking">Limpar Trajeto</string>
+    
+</resources>
